@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url(/assets/bg/bg2.png);
+    background-image: url(assets/bg/bg2.png);
     background-repeat: no-repeat;
     background-position:100px 0px;
     background-size: 100%;
